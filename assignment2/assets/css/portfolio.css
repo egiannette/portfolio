@@ -1,0 +1,57 @@
+
+	#name{
+		color: white;
+		background-color: #4aaaa5;
+		width: 210px;
+		padding: 10px;
+		margin-left: 134px;
+
+	}
+#contact-info{
+		background-color: white;
+		width: 10px;
+		margin-left: 55px;
+		float: left;
+		color: #4aaaa5;
+	}		
+	
+	#about-me-menu{
+		color: #777777;
+		float: right;
+		text-align: center;
+		padding: 14px 16px;
+		margin-right: 365px;
+
+
+
+	}
+	#connect-info{
+		color: #4aaaa5;
+		background-color: white;
+		font-size: 20px;
+		float: left;
+		padding-top: 0px;
+		padding: 10px;
+		/*position: relative;*/
+						}	
+
+footer{
+	background-color: #666666;
+	text-align: center;
+	height: 50px;
+	margin-top: 400px;
+	border-top-style: solid;
+	border-top-color: #4aaaa5;
+	border-top-width: 10px;
+	
+
+	
+}
+.copyright{
+	padding-top: 1px;
+}
+h5{
+	margin-top: 20px;
+
+
+}						
